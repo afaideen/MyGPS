@@ -20,7 +20,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
+//https://www.androidauthority.com/get-use-location-data-android-app-625012/
 public class MainActivity extends AppCompatActivity {
 
     LocationManager locationManager;
